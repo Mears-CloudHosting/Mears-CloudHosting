@@ -1,7 +1,7 @@
 - 👋 Salut, Je suis @Mears-CloudHosting
 - 👀 J'aimerai apprendre à coder
 - 🌱 Je suis le owner de CloudHosting
-- 💞️ 
+- 💞️ Mon hébergeur: https://discord.gg/vM4REVd2PF
 - 📫 Mon email: pro@cloud-hebergeur.fr
 
 <!---
